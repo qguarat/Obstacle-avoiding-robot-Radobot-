@@ -11,7 +11,7 @@ int uep = 4;
 
 int enA = 8;
 int enB = 7;
-bool moving = false;
+
 Servo servo;
 Ultrasonic usonic(uep, utp);
 
@@ -28,17 +28,9 @@ void setup()
   servo.attach(servoPin);
   pinMode(uep, INPUT);
   pinMode(utp, OUTPUT);
-
-  //pinMode(enA, OUTPUT);
-  //pinMode(enB, OUTPUT);
-
   
   analogWrite(enA, 240);
-  analogWrite(enB, 255);
-  //digitalWrite(enA, LOW);
-  //digitalWrite(enB, LOW);
-  
-  
+  analogWrite(enB, 255);  
 }
 
 void loop()
@@ -162,4 +154,3 @@ int lookLeft()
   
   return cm;
 }
-
