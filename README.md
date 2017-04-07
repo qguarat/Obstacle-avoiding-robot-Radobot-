@@ -1,2 +1,6 @@
 # Obstacle-avoiding-robot-Radobot-
-This is my first big project with arduino and about robotics.
+
+<a href="http://imgur.com/SVTpCv7"><img src="http://i.imgur.com/SVTpCv7.jpg" width = "350" title="source: imgur.com" /></a>
+<a href="http://imgur.com/q0LxkNB"><img src="http://i.imgur.com/q0LxkNB.jpg" width = "350" title="source: imgur.com" /></a>
+<a href="http://imgur.com/zGSc7QR"><img src="http://i.imgur.com/zGSc7QR.jpg" width = "350" title="source: imgur.com" /></a>
+<a href="http://imgur.com/7JDhUxH"><img src="http://i.imgur.com/7JDhUxH.jpg" width = "350" title="source: imgur.com" /></a>
