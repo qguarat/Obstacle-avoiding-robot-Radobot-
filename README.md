@@ -1,4 +1,4 @@
-# Obstacle-avoiding-robot-Radobot- v1.0
+# Obstacle avoiding robot "Radobot" - v1.0
 
 <a href="http://imgur.com/SVTpCv7"><img src="http://i.imgur.com/SVTpCv7.jpg" width = "400" title="source: imgur.com" /></a>
 <a href="http://imgur.com/q0LxkNB"><img src="http://i.imgur.com/q0LxkNB.jpg" width = "400" title="source: imgur.com" /></a>
